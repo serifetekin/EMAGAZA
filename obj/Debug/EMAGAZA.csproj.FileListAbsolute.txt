@@ -1,0 +1,10 @@
+C:\PROJELER\EMAGAZA\EMAGAZA\bin\Debug\EMAGAZA.exe.config
+C:\PROJELER\EMAGAZA\EMAGAZA\bin\Debug\EMAGAZA.exe
+C:\PROJELER\EMAGAZA\EMAGAZA\bin\Debug\EMAGAZA.pdb
+C:\PROJELER\EMAGAZA\EMAGAZA\obj\Debug\EMAGAZA.csprojAssemblyReference.cache
+C:\PROJELER\EMAGAZA\EMAGAZA\obj\Debug\EMAGAZA.Form1.resources
+C:\PROJELER\EMAGAZA\EMAGAZA\obj\Debug\EMAGAZA.Properties.Resources.resources
+C:\PROJELER\EMAGAZA\EMAGAZA\obj\Debug\EMAGAZA.csproj.GenerateResource.cache
+C:\PROJELER\EMAGAZA\EMAGAZA\obj\Debug\EMAGAZA.csproj.CoreCompileInputs.cache
+C:\PROJELER\EMAGAZA\EMAGAZA\obj\Debug\EMAGAZA.exe
+C:\PROJELER\EMAGAZA\EMAGAZA\obj\Debug\EMAGAZA.pdb
